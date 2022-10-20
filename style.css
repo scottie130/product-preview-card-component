@@ -3,7 +3,14 @@
 /* font-family: 'Fraunces', serif;
 font-family: 'Montserrat', sans-serif; */
 
+*(
 
+
+)
+
+body(
+    font-family:'Montserrat', sans-serif
+)
 
 
 
